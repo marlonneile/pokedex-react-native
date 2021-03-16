@@ -11,3 +11,20 @@ Project made using React Native to test version 5.x of [React Navigation](https:
 - [react-native-snap-carousel](https://github.com/meliorence/react-native-snap-carousel): A component built on top of Flatlist to allow snap effect when moving between Pokémon cards.
 
 ## Showcase
+
+
+<img src="previews/carousel.jpg" alt="Carousel preview" width="200" />
+
+<img src="previews/grid_1.jpg" alt="Grid preview" width="200" hspace="30"/>
+
+<img src="previews/grid_2.jpg" alt="Grid preview" width="200"/>
+
+<img src="previews/scroll.gif" alt="Grid preview" width="200" />
+
+<img src="previews/transition.gif" alt="Grid preview" width="200" hspace="30" />
+
+<video width="320" height="240" controls>
+  <source src="previews/screen_recording_1.mp4" type="video/mp4">
+</video>
+
+----------
