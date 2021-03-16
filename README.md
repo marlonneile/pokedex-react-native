@@ -13,7 +13,7 @@ Project made using React Native to test version 5.x of [React Navigation](https:
 ## Showcase
 
 
-<img src="previews/carousel.jpg" alt="Carousel preview" width="200" /> | <img src="previews/grid_1.jpg" alt="Grid preview" width="200" hspace="30"/> | <img src="previews/grid_2.jpg" alt="Grid preview" width="200"/>
+<img src="previews/carousel.jpg" alt="Carousel preview" width="200" /> <img src="previews/grid_1.jpg" alt="Grid preview" width="200" hspace="30"/> <img src="previews/grid_2.jpg" alt="Grid preview" width="200"/>
 
 <img src="previews/scroll.gif" alt="Grid preview" width="200" /> <img src="previews/transition.gif" alt="Grid preview" width="200" hspace="30" />
 
